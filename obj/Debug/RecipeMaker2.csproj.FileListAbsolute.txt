@@ -1,0 +1,8 @@
+C:\Users\ebenm\OneDrive\Documents\Visual Studio 2022\Personal\RecipeMaker2\obj\Debug\RecipeMaker2.csproj.AssemblyReference.cache
+C:\Users\ebenm\OneDrive\Documents\Visual Studio 2022\Personal\RecipeMaker2\obj\Debug\RecipeMaker2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebenm\OneDrive\Documents\Visual Studio 2022\Personal\RecipeMaker2\obj\Debug\RecipeMaker2.csproj.CoreCompileInputs.cache
+C:\Users\ebenm\OneDrive\Documents\Visual Studio 2022\Personal\RecipeMaker2\bin\Debug\RecipeMaker2.exe.config
+C:\Users\ebenm\OneDrive\Documents\Visual Studio 2022\Personal\RecipeMaker2\bin\Debug\RecipeMaker2.exe
+C:\Users\ebenm\OneDrive\Documents\Visual Studio 2022\Personal\RecipeMaker2\bin\Debug\RecipeMaker2.pdb
+C:\Users\ebenm\OneDrive\Documents\Visual Studio 2022\Personal\RecipeMaker2\obj\Debug\RecipeMaker2.exe
+C:\Users\ebenm\OneDrive\Documents\Visual Studio 2022\Personal\RecipeMaker2\obj\Debug\RecipeMaker2.pdb
